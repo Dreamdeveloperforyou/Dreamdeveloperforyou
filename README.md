@@ -43,6 +43,10 @@
 
 - Custom Search Filters
 
+- Cron jobs
+
+- Data Scraping Application using Python
+
 - I have created a connection with mt5-trade using the web socket and executed stock trades and stored the order which is executed by mt5-trade.
 
 - And many more
