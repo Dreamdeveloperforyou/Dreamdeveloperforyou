@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Web Designing & Development and Gaming.
 - 🌱 I’m currently learning Typescript and am at 70% sure of what I am doing in it. I am understanding the concepts of Genrative AI and am at 30% in understanding.
 - 💞️ About Me:
-- For the past 7+ years I have been working as a Full Stack Developer and developing, maintaining and finding new ways to scale web applications. I have extensive experience of working on both client-side and server side applications with focus on providing amazing User Experience and clean code.
+- For the past 8+ years I have been working as a Full Stack Developer and developing, maintaining and finding new ways to scale web applications. I have extensive experience of working on both client-side and server side applications with focus on providing amazing User Experience and clean code.
 
 *My key responsibilities as a full-stack developer include* :
 
